@@ -10,4 +10,4 @@
 
 
 𝑭𝑹𝑶𝑵𝑻 𝑬𝑵𝑫   :  Properties Display according to Categories | Detial Page |  Views On Property | Contact Agent Form | User Can Create own Account to Sell    
-                 Properties |  My Account | My Profile | Edit Profile | Chnage Password | My Enquiry Option on Profile Page |  jQuery Validation | Searching |                  Sorting | Pagination | Multiple Images | etc 
+                 Properties |  My Account | My Profile | Edit Profile | Chnage Password | My Enquiry Option on Profile Page |  jQuery Validation | Searching |                  Sorting | Pagination | Multiple Images | Google Translater API | etc 
